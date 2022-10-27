@@ -1,2 +1,1 @@
-# hacktoberfest2022
-Genuine PRs only, no spam
+Help me create repo for my DSA project
